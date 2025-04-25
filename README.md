@@ -72,5 +72,3 @@ Developed by [Your Name Here] as part of the freeCodeCamp Data Analysis Certific
 ```
 
 ---
-
-Want me to also generate a `requirements.txt` file or a `main.py` runner script?
