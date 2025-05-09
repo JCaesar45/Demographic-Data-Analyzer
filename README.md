@@ -1,6 +1,4 @@
-### 📄 `README.md`
-
-```markdown
+````markdown
 # Demographic Data Analyzer
 
 This project is part of the freeCodeCamp Data Analysis with Python curriculum.  
